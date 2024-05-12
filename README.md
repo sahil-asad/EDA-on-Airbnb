@@ -1,4 +1,32 @@
-# EDA-on-Airbnb
-Exploratory Data Analysis is done on dataset of Airbnb.
+# Airbnb Bookings Analysis (EDA)
+## Introduction
+This project focuses on analyzing Airbnb data to provide insights to hosts and guests regarding pricing, location, and listing trends.
 
-Since 2008, guests and hosts have used Airbnb to expand on travelling possibilities and present a more unique, personalised way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analysed and used for security, business decisions, understanding of customers' and providers' (hosts) behaviour and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more. This dataset has around 49,000 observations in it with 16 columns and it is a mix of categorical and numeric values.
+## Objective
+To inform hosts and guests about popular locations, preferred room types, and busiest hosts, and propose strategies to optimize listings.
+
+## Tools Used
+Pandas
+NumPy
+Matplotlib
+Seaborn
+## Data Source
+The dataset used for this analysis contains Airbnb booking data, including information on listings, pricing, location, and host activity.
+
+## Data Analysis
+### Exploratory Data Analysis (EDA):
+Conducted EDA using Pandas, NumPy, Matplotlib, and Seaborn to analyze Airbnb data and identify trends.
+### Identified Insights:
+Identified popular locations, preferred room types, and busiest hosts through data analysis.
+### Data Preprocessing:
+Ensured data accuracy through preprocessing steps to handle missing values, outliers, and inconsistencies.
+## Proposed Strategies
+### Optimize Listings:
+Offer rooms within targeted price ranges to attract more guests.
+Tailor property offerings to popular locations and room types to increase booking rates.
+## Results
+Provided actionable insights to hosts and guests regarding pricing, location, and listing trends on Airbnb.
+Proposed strategies to optimize listings based on analysis findings.
+## Future Work
+Further analysis to explore additional factors affecting Airbnb bookings, such as amenities, reviews, and host responsiveness.
+Implementation of machine learning models for predictive analytics and personalized recommendations.
